@@ -1,0 +1,4 @@
+[2016-09-25 12:47:26] (ERROR @ C:\web\moda\www\core\model\modx\modcachemanager.class.php : 317) Could not cache resource 2
+[2016-09-25 21:18:14] (ERROR @ C:\web\moda\www\core\model\modx\modcachemanager.class.php : 166) Could not cache context settings for mgr.
+[2016-09-27 14:34:35] (ERROR @ C:\web\moda\www\core\xpdo\cache\xpdocachemanager.class.php : 510) PHP warning: unlink(C:/web/moda/www/core/cache/lexicon_topics/lexicon/ru/core/default.cache.php): Permission denied
+[2016-09-27 14:34:36] (ERROR @ C:\web\moda\www\core\xpdo\cache\xpdocachemanager.class.php : 518) PHP warning: closedir(): 163 is not a valid Directory resource
